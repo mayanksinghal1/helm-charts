@@ -7,7 +7,7 @@ description: The leading tool for querying and visualizing time series and metri
 home: https://grafana.net
 icon: https://raw.githubusercontent.com/grafana/grafana/master/public/img/logo_transparent_400x.png
 sources:
-  - https://github.com/grafana/grafana
+  - https://github.com/mayanksinghal1/helm-charts
 maintainers:
   - name: zanhsieh
     email: zanhsieh@gmail.com
